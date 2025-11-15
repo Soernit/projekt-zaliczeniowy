@@ -2,3 +2,5 @@ Plik teskstowy
 
 zmiana do commitu
 zmiana do commitu konflikt
+
+
