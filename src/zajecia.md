@@ -1,3 +1,4 @@
+
 # Duży Nagłówek
 **bold text**
 ## Mały Nagłówek
@@ -8,5 +9,5 @@
 
 'code'
 
-[ez|https://github.com/Soernit/projekt-zaliczeniowy/new/main/src]
+[ez](https://github.com/Soernit/projekt-zaliczeniowy/new/main/src)
    
