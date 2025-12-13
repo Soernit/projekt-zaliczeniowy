@@ -1,4 +1,4 @@
-
+![Terry The Goat](https://github.com/Soernit/projekt-zaliczeniowy/blob/main/src/1734559385446.jpg)
 # Duży Nagłówek
 **bold text**
 ## Mały Nagłówek
