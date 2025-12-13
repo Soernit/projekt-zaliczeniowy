@@ -2,6 +2,7 @@
 | :joy: | :joy: |
 | ----------- | ----------- |
 | Temple OS| Temple OS |
+| ----------- | ----------- |
 | :joy: | :joy: |
 # Duży Nagłówek
 **bold text**
