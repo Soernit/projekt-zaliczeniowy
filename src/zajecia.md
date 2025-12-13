@@ -1,8 +1,7 @@
 ![Terry The Goat](https://github.com/Soernit/projekt-zaliczeniowy/blob/main/src/1734559385446.jpg)
 | :joy: | :joy: |
 | ----------- | ----------- |
-| Temple OS| Temple OS |
-| ----------- | ----------- |
+| Temple OS[^1]| Temple OS[^1] |
 | :joy: | :joy: |
 # Duży Nagłówek
 **bold text**
@@ -12,7 +11,10 @@
 2. Drugi element
 3. Trzeci element
 
-'code'
+tasks:
+
+`code`
 
 [ez](https://github.com/Soernit/projekt-zaliczeniowy/new/main/src)
-   
+
+[^1]: Praise the goat
